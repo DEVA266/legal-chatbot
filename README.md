@@ -1,8 +1,8 @@
-# LexCraft AI - Legal Document Drafting Assistant & Intake Bot
+#  AI - Legal Document Drafting Assistant & Intake Bot
 
 Specialized AI-powered legal document drafting application designed for Indian legal professionals.
 
-## 🚀 Key Features
+## Key Features
 
 1. **Intelligent Intake Interview Bot**:
    - Detects the legal document from informal prompts like *"Draft me a document on section 138"*.
