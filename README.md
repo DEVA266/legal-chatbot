@@ -7,7 +7,7 @@ Specialized AI-powered legal document drafting application designed for Indian l
 1. **Intelligent Intake Interview Bot**:
    - Detects the legal document from informal prompts like *"Draft me a document on section 138"*.
    - Automatically asks relevant statutory questions (Parties, Cheque numbers, Return memo date, Dishonour reason) without overwhelming the lawyer.
-2. **Nails Down 3 Core Practice Documents**:
+2. **3 Core Practice Documents**:
    - **Section 138 Negotiable Instruments Act, 1881**: Statutory demand notice with 15-day cure period and Section 141 corporate director liability.
    - **Non-Disclosure Agreement (NDA)**: Comprehensive Mutual / Unilateral NDA under Indian Contract Act, 1872.
    - **Commercial Recovery Notice**: Legal demand notice under Order 37 CPC and Commercial Courts Act for unpaid invoices.
